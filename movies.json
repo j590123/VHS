@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "checkedout": "Yes"
+    },
+    {
+      "name": "The Godfather",
+      "year": 1972,
+      "checkedout": "No"
+    },
+    {
+      "name": "The Dark Knight",
+      "year": 1974,
+      "checkedout": "No"
+    },
+    {
+      "name": "Schindler's List",
+      "year": 2008,
+      "checkedout": "No"
+    },
+    {
+      "name": "12 Angry Men",
+      "year": 1993,
+      "checkedout": "No"
+    },
+    {
+      "name": "testmovie2",
+      "year": "2015",
+      "checkedout": "No"
+    }
+  ]
+}
